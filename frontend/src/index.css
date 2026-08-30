@@ -1,0 +1,12 @@
+.body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.navProfile {
+    margin-top: 40px;
+    padding: 15px;
+    cursor: pointer;
+}
